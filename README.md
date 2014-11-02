@@ -1,0 +1,3 @@
+# scripts-allconfig
+
+### scripts, settings, inf, issues, bat, seeds, etc...
