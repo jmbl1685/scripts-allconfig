@@ -1,0 +1,14 @@
+ALTER PROC dbo.uspError
+AS
+BEGIN TRY
+SELECT 1/0
+END TRY
+BEGIN CATCH
+	SELECT ERROR_NUMBER() AS ErrorNumber
+		, ERROR_STATE() AS ErrorState
+		, ERROR_MESSAGE() AS ErrorMessage
+		, ERROR_SEVERITY() AS ErrorSeverity
+		, ERROR_LINE() AS ErrorLine
+		, ERROR_PROCEDURE() AS ErrorProcedure
+	;
+END CATCH

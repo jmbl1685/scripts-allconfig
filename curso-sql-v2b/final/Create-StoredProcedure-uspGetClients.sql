@@ -1,0 +1,4 @@
+CREATE PROCEDURE dbo.uspGetClients
+AS
+SELECT * FROM Client;
+GO

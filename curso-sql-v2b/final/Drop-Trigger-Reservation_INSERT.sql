@@ -1,0 +1,1 @@
+DROP TRIGGER dbo.Reservation_INSERT

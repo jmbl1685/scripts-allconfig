@@ -1,0 +1,1 @@
+EXEC dbo.uspGetClientByNames @LastName = N'Moser', @Name = N'John'
