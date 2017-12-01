@@ -1,0 +1,2 @@
+1. ps -u = listar proceso 
+2. kill 1951 = terminar proceso 1951(ejemplo: codigo del proceso)
