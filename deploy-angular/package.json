@@ -1,0 +1,17 @@
+{
+  "name": "deploy-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Juan Batty <jmbl1685@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
