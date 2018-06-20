@@ -1,0 +1,4 @@
+Download GoogleCloudSDK --> https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
+run to CMD:
+gcloud components install cloud-datastore-emulator
+gcloud beta emulators datastore start --project=my-project-id --data-dir C:/myfolder --host-port localhost:8380
