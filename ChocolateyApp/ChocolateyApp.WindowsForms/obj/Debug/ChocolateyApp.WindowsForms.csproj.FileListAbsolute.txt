@@ -1,0 +1,10 @@
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\bin\Debug\ChocolateyApp.WindowsForms.exe.config
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\bin\Debug\ChocolateyApp.WindowsForms.exe
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\bin\Debug\ChocolateyApp.WindowsForms.pdb
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\obj\Debug\ChocolateyApp.WindowsForms.Form1.resources
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\obj\Debug\ChocolateyApp.WindowsForms.Properties.Resources.resources
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\obj\Debug\ChocolateyApp.WindowsForms.Resource.resources
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\obj\Debug\ChocolateyApp.WindowsForms.csproj.GenerateResource.cache
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\obj\Debug\ChocolateyApp.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\obj\Debug\ChocolateyApp.WindowsForms.exe
+C:\Users\Juan Manuel\Desktop\ChocolateyApp\ChocolateyApp.WindowsForms\obj\Debug\ChocolateyApp.WindowsForms.pdb
