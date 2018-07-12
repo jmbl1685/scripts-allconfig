@@ -1,0 +1,8 @@
+==================================
+BASIC COMANDS - NOW.SH
+==================================
+
+now ls = list all deployments
+now rm {{proyect}} -y = remove deployments
+now = deploy
+now alias {{actualproyect}} {{alias}} = change alias to project
