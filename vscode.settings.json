@@ -1,0 +1,30 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "workbench.colorTheme": "One Dark Pro",
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.iconTheme": "material-icon-theme",
+    // "editor.rulers": [
+    //     80
+    // ],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 100,
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.quickSuggestions": false
+    },
+    "team.showWelcomeMessage": false,
+    "explorer.confirmDragAndDrop": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.showExpandedAbbreviation": "always",
+    "editor.autoIndent": true,
+    "python.jediEnabled": false,
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "files.associations": {
+        "*.html": "html"
+    }
+}
