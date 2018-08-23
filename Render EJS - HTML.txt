@@ -1,6 +1,0 @@
-------------- Render Plantillas EJS / HTML ------------
-var ejs = require('ejs')
-app.set( 'views' , _dirname+'/views' ) 
-app.engine( 'html' , ejs.renderFile )
-app.set( 'view engine' , 'html')
---------------------------------------------------------------
