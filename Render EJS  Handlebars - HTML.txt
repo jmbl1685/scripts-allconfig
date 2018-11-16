@@ -1,0 +1,15 @@
+------------- Render Plantillas EJS / HTML -------------------
+const ejs = require('ejs')
+app.engine( 'html' , ejs.renderFile )
+app.set( 'view engine' , 'html')
+app.set('views', `${__dirname}/views`) 
+--------------------------------------------------------------
+
+------------- Render Plantillas Handlebars / HTML -------------------
+/* npm install handlebars +/
+
+const consolidate = require('consolidate')
+app.engine('html', consolidate.handlebars)
+app.set('view engine', 'html')
+app.set('views', `${__dirname}/views`)
+--------------------------------------------------------------
